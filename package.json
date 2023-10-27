@@ -1,10 +1,11 @@
 {
-  "name": "nextra-docs-template",
+  "name": "sieg-cn",
   "version": "0.0.1",
-  "description": "Nextra docs template",
+  "description": "A Student's Introduction to English Grammar in Chinese",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
+    "export": "next export",
     "start": "next start"
   },
   "repository": {

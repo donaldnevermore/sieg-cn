@@ -1,7 +1,6 @@
 {
-  "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
+  "index": "中文版前言",
+  "chapter1": "第 1 章：Introduction 入门",
   "about": {
     "title": "About",
     "type": "page"
