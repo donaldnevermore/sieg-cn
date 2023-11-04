@@ -4,6 +4,7 @@ const withNextra = require("nextra")({
 });
 
 module.exports = withNextra({
+  basePath: "/sieg-cn",
   assetPrefix: "./",
   reactStrictMode: true,
   images: {
